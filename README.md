@@ -1,5 +1,12 @@
 ## Hi Tinkerer 👋
 
+<div align="center">
+  <a href="https://github.com/DeepanshuKing01">
+    <img src="https://img.shields.io/github/followers/DeepanshuKing01?label=Follow&style=social" alt="GitHub Follow" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=DeepanshuKing01&label=Profile%20views&color=success&style=flat" alt="Profile Views" />
+</div>
+
 ## 💫 About Me:
 
 👨‍💻 I am a **self-starter** and growth-minded developer exploring the intersection of **the MERN stack and Machine Learning**.
@@ -48,6 +55,21 @@
 ### 🛠️ Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepanshuKing01&theme=react&hide_border=true" alt="Deepanshu's GitHub Streak" />
+</div>
+
+## 📁 Projects
+
+### 🛒 MERN Stack E-Commerce Platform
+A fully functional, responsive e-commerce web application built from the ground up using the **MERN** (MongoDB, Express.js, React, Node.js) stack. This project showcases my ability to integrate a modern, interactive frontend with a robust backend architecture for seamless product browsing and management. 
+
+🔗 **[Live Demo: Check out the project here!](https://shopping-frontend-2ptd.onrender.com)**
+
+*(Adding more projects soon!)*
 
 ## 📊 GitHub Activity
 
