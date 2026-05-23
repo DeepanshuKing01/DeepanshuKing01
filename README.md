@@ -13,6 +13,7 @@
 💬 Ask me about **JavaScript, Python, C/C++, or API integrations**.
 
 ⚡ Fun fact: **I treat optimizing my code structure like solving a puzzle—always looking for the cleanest, most efficient solution!**
+
 ---
 
 ## 🌐 Socials:
