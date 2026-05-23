@@ -3,13 +3,18 @@
 ## 💫 About Me:
 
 👨‍💻 I am a **self-starter** and growth-minded developer exploring the intersection of **the MERN stack and Machine Learning**.
-🔭 I’m currently working on **Full MERN Stack applications** and exploring backend architectures.
-👯 I’m open to collaborating on **innovative web apps and data-driven projects**.
-🌱 I’m currently diving deep into **AI & Machine Learning (NumPy, Pandas, Scikit-learn)** and leveling up my backend skills with **Django**.
-💬 Ask me about **JavaScript, Python, C/C++, or API integrations**.
-⚡ Fun fact: **I treat optimizing my code structure like solving a puzzle—always looking for the cleanest, most efficient solution!**
 
+🔭 I’m currently working on **Full MERN Stack applications** and exploring backend architectures.
+
+👯 I’m open to collaborating on **innovative web apps and data-driven projects**.
+
+🌱 I’m currently diving deep into **AI & Machine Learning (NumPy, Pandas, Scikit-learn)** and leveling up my backend skills with **Django**.
+
+💬 Ask me about **JavaScript, Python, C/C++, or API integrations**.
+
+⚡ Fun fact: **I treat optimizing my code structure like solving a puzzle—always looking for the cleanest, most efficient solution!**
 ---
+
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepanshu-duggal)
